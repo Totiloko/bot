@@ -1,1 +1,1 @@
-web: python erisbot.py
+worker: python bot.py
